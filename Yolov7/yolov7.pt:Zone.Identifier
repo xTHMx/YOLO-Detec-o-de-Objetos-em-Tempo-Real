@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/WongKinYiu/yolov7/issues/53
+HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/511187726/b0243edf-9fb0-4337-95e1-42555f1b37cf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231214%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231214T155240Z&X-Amz-Expires=300&X-Amz-Signature=d59bae38e6a887790bee52ac69926b566b7a7117912d848d066b0a1c4f6bf83a&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=511187726&response-content-disposition=attachment%3B%20filename%3Dyolov7.pt&response-content-type=application%2Foctet-stream
